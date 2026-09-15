@@ -2,7 +2,7 @@ Currently working on...
 
 <br>
 
-<sub><b>TUI</b></sub>
+<sub><b>TUI APPS</b></sub>
 - [jus](https://github.com/paintparty/jus): A TUI app for Clojure dialects
 
 <br>
