@@ -1,39 +1,38 @@
-Currently working on:
+Currently working on...
 
 <br>
 
-TUIs:
-- [Jus](https://github.com/paintparty/jus): A TUI app for Clojure dialects
+<sub><b>TUI</b></sub>
+- [jus](https://github.com/paintparty/jus): A TUI app for Clojure dialects
 
 <br>
 
-Hi-fidelity color printing:
+<sub><b>Hi-FIDELITY COLOR PRINTING</b></sub>
 - [Bling](https://github.com/paintparty/bling): Rich text in the console
 - [Fireworks](https://github.com/paintparty/fireworks): Debugging macros for Clojure dialects
 
 <br>
 
-Value types:
+<sub><b>VALUE TYPES</b></sub>
 
 - [Lasertag](https://github.com/paintparty/lasertag): A library for categorizing values in Clojure dialects
+
 <br>
 
-User Interface:
+<sub><b>USER INTERFACE</b></sub>
 
 - [Kushi](https://kushi.design/): Readymade foundation for web UI in ClojureScript
 - [Domo](https://github.com/kushidesign/domo): A ClojureScript DOM utility library
 
 <br>
 
-Color syntax:
+<sub><b>COLOR SYNTAX</b></sub>
 - [RYGB](https://paintparty.github.io/rygb/): Intuitive color notation syntax
 
 <br>
 
-VSCode extensions:
+<sub><b>VSCODE EXTENSIONS</b></sub>
 - [Fireworks](https://marketplace.visualstudio.com/items?itemName=jcoyle.fireworks): Live coding for Clojure dialects
+- [Alabasjer (Light/Dark)](https://marketplace.visualstudio.com/items?itemName=jcoyle.alabasjer): Modified Alabaster theme with Light and Dark support
 
 <br>
-
-VSCode themes:
-- [Alabasjer (Light/Dark)](https://marketplace.visualstudio.com/items?itemName=jcoyle.alabasjer): Modified Alabaster theme with Light and Dark support
