@@ -1,4 +1,6 @@
-Currently working on open source apps, libraries, and extensions in the Clojure ecosystem. If any of these projects bring you joy, please consider [sponsorship](https://github.com/sponsors/paintparty) :)
+Currently working on open source apps, libraries, and extensions in the Clojure ecosystem.
+
+If any of these projects bring you joy, please consider [sponsorship](https://github.com/sponsors/paintparty) :)
 
 <br>
 
