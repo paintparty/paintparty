@@ -1,4 +1,4 @@
-Currently working on open source apps, libraries, and extensions in the Clojure ecosystem.
+Currently working on open source apps, libraries, and extensions for Clojure dialects.
 
 If any of these projects bring you joy, please consider [sponsorship](https://github.com/sponsors/paintparty) :)
 
