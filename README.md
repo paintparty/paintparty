@@ -1,4 +1,4 @@
-Currently working on open source apps, libraries, and extensions for Clojure dialects.
+Working on open source apps, libraries, and extensions for Clojure dialects.
 
 If any of these projects bring you joy, please consider [sponsorship](https://github.com/sponsors/paintparty) :)
 
@@ -11,20 +11,19 @@ If any of these projects bring you joy, please consider [sponsorship](https://gi
 
 <sub><b>Hi-FIDELITY COLOR PRINTING</b></sub>
 - [Bling](https://github.com/paintparty/bling): Rich text in the console
-- [Fireworks](https://github.com/paintparty/fireworks): Debugging macros for Clojure dialects
-
+- [Fireworks](https://github.com/paintparty/fireworks): Debugging macros
 <br>
 
 <sub><b>VALUE TYPES</b></sub>
 
-- [Lasertag](https://github.com/paintparty/lasertag): A library for categorizing values in Clojure dialects
+- [Lasertag](https://github.com/paintparty/lasertag): A library for categorizing values
 
 <br>
 
 <sub><b>USER INTERFACE</b></sub>
 
-- [Kushi](https://kushi.design/): Readymade foundation for web UI in ClojureScript
-- [Domo](https://github.com/kushidesign/domo): A ClojureScript DOM utility library
+- [Kushi](https://kushi.design/): Readymade foundation for web UI
+- [Domo](https://github.com/kushidesign/domo): A DOM utility library
 
 <br>
 
