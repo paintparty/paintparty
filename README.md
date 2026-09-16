@@ -32,6 +32,6 @@ Working on open source apps, libraries, and extensions for Clojure dialects. If 
 
 <sub><b>VSCODE EXTENSIONS</b></sub>
 - [Fireworks](https://marketplace.visualstudio.com/items?itemName=jcoyle.fireworks): Live coding for Clojure dialects
-- [Alabasjer (Light/Dark)](https://marketplace.visualstudio.com/items?itemName=jcoyle.alabasjer): Modified Alabaster theme with Light and Dark support
+- [Alabasjer (Light/Dark)](https://marketplace.visualstudio.com/items?itemName=jcoyle.alabasjer): Modified Alabaster theme.
 
 <br>
